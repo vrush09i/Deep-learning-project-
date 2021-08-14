@@ -5,7 +5,9 @@ In this project we will train our model using GTZAN dataset to classify the test
 For extracting the features of the audios in the dataset we will be usingMFCC.
 
 ### Dataset
-GTZAN from the http://marsyas.info/ website is the name of the dataset that we are
-going to use for the project. It contains 10 genres, namely -Blues, Classical,
-Country, Disco, Hip-hop, Jazz, Metal, Pop, Reggae, and Rock. Each genre has
-100 tracks each of 30 seconds. In all the dataset consists of 1000 tracks
+GTZAN from the http://marsyas.info/  dataset that we are
+going to use for the project. 
+It contains 10 genres, namely -Blues, Classical,
+Country, Disco, Hip-hop, Jazz, Metal, Pop, Reggae, and Rock. 
+Each genre has100 tracks each of 30 seconds. 
+In all the dataset consists of 1000 tracks
