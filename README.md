@@ -1,5 +1,5 @@
 # Deep-learning-project
-## music gener clasifcation project 
+## Music Gener Clasifcation 
 The purpose of our project is classifying the music genre using the CNN algorithm.  
 In this project we will train our model using GTZAN dataset to classify the test data(audio).  
 For extracting the features of the audios in the dataset we will be usingMFCC.
